@@ -4,6 +4,8 @@
 #### If you wanna learn more about who I am or what I do, feel free to navigate between these other links:
 - ### [LinkedIn](https://www.linkedin.com/in/victorcardosopudotorres/)
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cptvictor95)
+
 ### I'm currently working on some personal projects such as:
 #### BRAV 
 - [GitHub Repository](https://github.com/cptvictor95/brav)
@@ -15,7 +17,6 @@ A project intended to serve as an online catalog for Calisthenics, Yoga and Powe
 - [GitHub Repository (Frontend)](https://github.com/cptvictor95/skibiddy-front)
 
 A project intended to serve as an authorial music platform where you can publish your  music, for purposes of organization and subjective progress tracking with the knowledge acquired throughout the learning curve process, independently of genre or level of proficiency, initially created for learning and applying my Full Stack Web Dev skills.
-
 
 <!--
 **cptvictor95/cptvictor95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
