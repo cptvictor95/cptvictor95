@@ -1,16 +1,16 @@
 # Hello! Welcome and thank you for coming
 ### I'm Victor Cardoso Pudo Torres, a Full Stack Web Developer and technology enthusiast.
 
-#### If you wanna learn more about who I am or what I do, feel free to navigate between these other links:
+#### If you wanna know more about who I am or what I do, feel free to navigate between these other links:
 - ### [LinkedIn](https://www.linkedin.com/in/victorcardosopudotorres/)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cptvictor95)
 
 ### I'm currently working on some personal projects such as:
-#### BRAV 
-- [GitHub Repository](https://github.com/cptvictor95/brav)
+#### Gastura
+- [GitHub Repository](https://github.com/cptvictor95/gastura)
 
-A project intended to serve as an online catalog for Calisthenics, Yoga and Powerlifting exercises to help me and my friends getting better at making our own home workouts the way we want to, with all the information we need to have a successful and injury-free enjoyable home workout but also turning them into organized and logged information for future self-made home workouts.
+A project intended to be a simple budget tracker, with the possibility to control your monthly budget and expenses, create saving goals for the month and have a somewhat detailed representation with graphs of your monthly balance.
 
 #### Skibiddy
 - [GitHub Repository (Backend)](https://github.com/cptvictor95/skibiddy-back)
