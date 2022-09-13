@@ -12,12 +12,6 @@
 
 A project intended to be a simple budget tracker, with the possibility to control your monthly budget and expenses, create saving goals for the month and have a somewhat detailed representation with graphs of your monthly balance.
 
-#### Skibiddy
-- [GitHub Repository (Backend)](https://github.com/cptvictor95/skibiddy-back)
-- [GitHub Repository (Frontend)](https://github.com/cptvictor95/skibiddy-front)
-
-A project intended to serve as an authorial music platform where you can publish your  music, for purposes of organization and subjective progress tracking with the knowledge acquired throughout the learning curve process, independently of genre or level of proficiency, initially created for learning and applying my Full Stack Web Dev skills.
-
 <!--
 **cptvictor95/cptvictor95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
