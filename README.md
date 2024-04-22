@@ -1,25 +1,8 @@
 # Hello! Welcome and thank you for coming
-### I'm Victor Cardoso Pudo Torres, a Full Stack Web Developer, entrepreneur, educator and technology enthusiast.
+### I'm Victor Torres, a Software Engineer, educator, entrepreneur and technology enthusiast.
 
 #### If you wanna know more about who I am or what I do, feel free to talk to me on LinkedIn or send me an e-mail:
 - ### [My e-mail](mailto:cpt.victor@hotmail.com)
 - ### [LinkedIn](https://www.linkedin.com/in/victorcardosopudotorres/)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cptvictor95)
-
-<!--
-**cptvictor95/cptvictor95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ###
